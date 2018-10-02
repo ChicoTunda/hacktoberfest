@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [ChicoTunda]. (https://github.com/ChicoTunda)
+- Place: Peterborough Ontario Canad
+- Bio: I like My Chemical Romance
+- Github: [ChicoTunda]. (https://github.com/ChicoTunda)
